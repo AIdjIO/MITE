@@ -196,6 +196,7 @@ Note: Click 'Save' everytime you change a settings, once all settings have been 
  ![image](https://user-images.githubusercontent.com/67799618/91718389-290e3580-eb8b-11ea-95a6-f70ced21f867.png)
 
   - Administration -> Backup
+  
  here is the final screen, this is opportunity to backup all these settings to a file should you ever have to reset the router in the future you wil be able to retrieve yor settings.
  
  ![image](https://user-images.githubusercontent.com/67799618/91718594-93bf7100-eb8b-11ea-9f29-92c31fa3b058.png)
