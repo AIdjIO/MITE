@@ -48,9 +48,8 @@ detail of softweare flashed and router spec
    - Setup -> DDNS (disable)
    - Setup -> Mac Address Clone (disable)
    - Setup -> Advanced Routing
-   
-    - Operating Mode: Select Router
-    - Dynamic Routing: Disbale
-    - Static Routing: leave default settings
+      - Operating Mode: Select Router
+      - Dynamic Routing: Disbale
+      - Static Routing: leave default settings
     ![image](https://user-images.githubusercontent.com/67799618/91712110-02e29880-eb7f-11ea-9f57-ecb00fc2936f.png)
   
