@@ -78,3 +78,17 @@ Note: Click 'Save' everytime you change a settings, once all settings have been 
     
     ![image](https://user-images.githubusercontent.com/67799618/91712835-7e911500-eb80-11ea-8aad-554c59e26ac6.png)
   
+  - Wireless -> Radius (skip this, only configurable in AP isolation mode anyway)
+  - Wireless -> Wireless Security
+      --Physical Interface--
+      - Security Mode: WPA2 Personal
+      - WPA algorithms: AES
+      - WPA Shared Key: Same as Mobile HotSpot
+      - Key Renewal Interval (in seconds): 3600 (default)
+      
+      --Virtual Interfaces
+      - Security Mode: WPA2 Personal
+      - WPA algorithms: AES
+      - WPA Shared Key: Same as Mobile HotSpot
+      - Key Renewal Interval (in seconds): 3600 (default)
+  
