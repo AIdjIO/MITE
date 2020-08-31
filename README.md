@@ -11,5 +11,20 @@ How to share mobile internet (wifi hotspost) to wired ethernet (LAN) devices wit
 ![Samsung_Galaxy_S6_Scaled](https://user-images.githubusercontent.com/67799618/91667284-4dbacc80-eafb-11ea-92c1-f597a17c8265.png)
 
 # Router front page
+detail of softweare flashed and router spec
+
 ![image](https://user-images.githubusercontent.com/67799618/91665740-c87dea80-eaef-11ea-96f2-606682c35c73.png)
-![Untitled](https://user-images.githubusercontent.com/67799618/91666968-32e75880-eaf9-11ea-9f1f-19ad3ca9d5d2.png)
+
+# Step by Step
+1. Configure android phone hotspot 
+  - Network Name : e.g. WIFI 1
+  - Password: choose your own wifi password
+  - Hide my device: unselected (optional, select if you want to hide SSID)
+  - Security: WPA2 PSK
+  - Wifi Sharing: On
+  - Timeout Setting: Never Timeout (optional)
+  - Band: 2.4Ghz
+  - Turn Mobile HotSpot On
+  
+ 2. Configuer WRT54G
+  
