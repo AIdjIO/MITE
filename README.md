@@ -96,21 +96,36 @@ Note: Click 'Save' everytime you change a settings, once all settings have been 
       
       ![image](https://user-images.githubusercontent.com/67799618/91714546-ea28b180-eb83-11ea-8e78-0d8a09f7864f.png)
       
-    - Wireless -> Mac Filter 
+   - Wireless -> Mac Filter 
     (optional - specify MAC address of devices allowed on the network if you want to restrict access to certain devices only
     this option is also available on the mobile hotspot).
     
-    ![image](https://user-images.githubusercontent.com/67799618/91715033-d6317f80-eb84-11ea-8c37-8dac6b0730dd.png)
+   ![image](https://user-images.githubusercontent.com/67799618/91715033-d6317f80-eb84-11ea-8c37-8dac6b0730dd.png)
     
-    - Wireless -> Advanced Settings (everything left to default)
-     - Wireless GUI Access: Enable (if Disable is selected you will not be able to access this configuration interface via Wifi anymore).
+   - Wireless -> Advanced Settings (everything left to default)
+    - Wireless GUI Access: Enable (if Disable is selected you will not be able to access this configuration interface via Wifi anymore).
     
     ![image](https://user-images.githubusercontent.com/67799618/91715371-67085b00-eb85-11ea-9beb-46df46eb4a6d.png)
     
-    - Wireless -> WDS (default settigns)
+   - Wireless -> WDS (leave default settigns)
     
-    ![image](https://user-images.githubusercontent.com/67799618/91715514-b058aa80-eb85-11ea-9067-9c3bc162bb2b.png)
-    
-    
+   ![image](https://user-images.githubusercontent.com/67799618/91715514-b058aa80-eb85-11ea-9067-9c3bc162bb2b.png)
+   
+ ## 4. Configure WRT54G (Services Page)
+  - Services -> Services (leave default settings except DNSMasq)
+    - DNSMasq: Disable
+    - Telnet: Enable --default-- (set to Disable if you do not want to allow configuration via telnet)
+   
+   ![image](https://user-images.githubusercontent.com/67799618/91716271-39241600-eb87-11ea-862e-e5b00249e81f.png)
+   
+   - Services -> Hostpot (leave default settings)
+   
+   ![image](https://user-images.githubusercontent.com/67799618/91716323-578a1180-eb87-11ea-83ce-8794ada5a670.png)
+   
+   - Services -> My Ad Network (skip - leave default settings)
+   
+   ![image](https://user-images.githubusercontent.com/67799618/91716398-7a1c2a80-eb87-11ea-9f41-6e24c15db3b3.png)
+   
+   
     
     
