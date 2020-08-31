@@ -35,7 +35,6 @@ detail of softweare flashed and router spec
   - open browser and type 192.168.1.1
   - you should be greeted with a page inviting to set admininistrator user and password.
   - once set go to Setup -> basic setup
-  ![image](https://user-images.githubusercontent.com/67799618/91711631-17726100-eb7e-11ea-900e-5d6594bd6df0.png)
     - disable STP
     - choose rooter name (optional)
     - set local IP address of router to 192.168.43.2
@@ -44,6 +43,9 @@ detail of softweare flashed and router spec
     - Local DNS: 192.168.43.1
     - Assign WAN Port to Switch: (Optional) select if you want to make an extra ethernet port available for an additional device
     - NTP Client: disbale (optional)
+    
+     ![image](https://user-images.githubusercontent.com/67799618/91711631-17726100-eb7e-11ea-900e-5d6594bd6df0.png)
+     
    - Setup -> DDNS (disable)
    - Setup -> Mac Address Clone (disable)
    - Setup -> Advanced Routing
