@@ -103,9 +103,9 @@ Note: Click 'Save' everytime you change a settings, once all settings have been 
    ![image](https://user-images.githubusercontent.com/67799618/91715033-d6317f80-eb84-11ea-8c37-8dac6b0730dd.png)
     
    - Wireless -> Advanced Settings (leave everything to default)
-    - Wireless GUI Access: Enable (if Disable is selected you will not be able to access this configuration interface via Wifi anymore).
+     - Wireless GUI Access: Enable (if Disable is selected you will not be able to access this configuration interface via Wifi anymore).
     
-    ![image](https://user-images.githubusercontent.com/67799618/91715371-67085b00-eb85-11ea-9beb-46df46eb4a6d.png)
+   ![image](https://user-images.githubusercontent.com/67799618/91715371-67085b00-eb85-11ea-9beb-46df46eb4a6d.png)
     
    - Wireless -> WDS (skip, leave default settigns)
     
