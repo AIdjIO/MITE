@@ -17,7 +17,7 @@ detail of softweare flashed and router spec
 # Step by Step
 Note: Click 'Save' everytime you change a settings, once all settings have been modified select 'Apply Settings' and wait forr router to reboot.
 
-1. Configure android phone hotspot 
+## 1. Configure android phone hotspot 
   - Network Name : e.g. WIFI_1
   - Password: choose your own wifi password
   - Hide my device: unselected (optional, select if you want to hide SSID)
@@ -30,7 +30,7 @@ Note: Click 'Save' everytime you change a settings, once all settings have been 
   (in this case address range is 192.168.43.x subnet 255.255.255.0)
   hotspot ip address is 192.168.43.1
   
- 2. Configure WRT54G (Setup Page)
+## 2. Configure WRT54G (Setup Page)
   - reset router by pressing the hardware switch
   ![image](https://user-images.githubusercontent.com/67799618/91711337-a8950800-eb7d-11ea-9bd9-6d3493751369.png)
   - connect to open wifi dd-wrt or use an ethernet cable instead
@@ -63,7 +63,7 @@ Note: Click 'Save' everytime you change a settings, once all settings have been 
    
    ![image](https://user-images.githubusercontent.com/67799618/91712716-3b36a680-eb80-11ea-874d-c1ac96c34102.png)
 
-3. Configure WRT54G (Wireless Page)
+## 3. Configure WRT54G (Wireless Page)
   - Wireless-> Basic Settings
     - **Wireless mode:** Repeater Bridge
     - **Wireless Network Mode:** Mixed or choose G-Only
