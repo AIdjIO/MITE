@@ -102,12 +102,12 @@ Note: Click 'Save' everytime you change a settings, once all settings have been 
     
    ![image](https://user-images.githubusercontent.com/67799618/91715033-d6317f80-eb84-11ea-8c37-8dac6b0730dd.png)
     
-   - Wireless -> Advanced Settings (everything left to default)
+   - Wireless -> Advanced Settings (leave everything to default)
     - Wireless GUI Access: Enable (if Disable is selected you will not be able to access this configuration interface via Wifi anymore).
     
     ![image](https://user-images.githubusercontent.com/67799618/91715371-67085b00-eb85-11ea-9beb-46df46eb4a6d.png)
     
-   - Wireless -> WDS (leave default settigns)
+   - Wireless -> WDS (skip, leave default settigns)
     
    ![image](https://user-images.githubusercontent.com/67799618/91715514-b058aa80-eb85-11ea-9067-9c3bc162bb2b.png)
    
@@ -126,6 +126,78 @@ Note: Click 'Save' everytime you change a settings, once all settings have been 
    
    ![image](https://user-images.githubusercontent.com/67799618/91716398-7a1c2a80-eb87-11ea-9f41-6e24c15db3b3.png)
    
-   
+  - Security -> Firewall
+    - SPI Firewall: Disable
+    - Additional Filter: uncheck all
+    - Block Wan Requests: check only Filter Multicast
     
+    ![image](https://user-images.githubusercontent.com/67799618/91716696-0af30600-eb88-11ea-8a64-2b86e9c3ba52.png)
     
+    - Security -> VPN Passthrough (skip, leave default settings)
+    
+    ![image](https://user-images.githubusercontent.com/67799618/91716809-3c6bd180-eb88-11ea-938a-1e857b50f83f.png)
+  
+ ## 5. Configure WRT54G (Access Restrictions Pages) 
+  - Access Restrictions -> WAN Access (skip, leave default settings)
+  
+  ![image](https://user-images.githubusercontent.com/67799618/91716938-763cd800-eb88-11ea-8ff6-ee0fc8da4273.png)
+  
+## 6. Configure WRT54G (NAT / QoS Pages) (skip, leave default settings)
+  - Access Restrictions -> Port Forwarding (skip, leave default settings)
+  
+  ![image](https://user-images.githubusercontent.com/67799618/91717288-21e62800-eb89-11ea-800f-74d17cbceeed.png)
+
+  - Access Restrictions -> Port Range Forwarding (skip, leave default settings)
+  
+  ![image](https://user-images.githubusercontent.com/67799618/91717330-35918e80-eb89-11ea-8c82-8410f6172b8b.png)
+
+  - Access Restrictions -> Port Triggering (skip, leave default settings)
+  
+  ![image](https://user-images.githubusercontent.com/67799618/91717356-480bc800-eb89-11ea-8ec1-18a4b1c87825.png)
+
+  - Access Restrictions -> UPnP (skip, leave default settings)
+  
+  ![image](https://user-images.githubusercontent.com/67799618/91717396-5823a780-eb89-11ea-8ed8-5be904b38f1d.png)
+
+  - Access Restrictions -> DMZ (skip, leave default settings)
+  
+  ![image](https://user-images.githubusercontent.com/67799618/91717433-6a054a80-eb89-11ea-850d-df1a2bc29d4f.png)
+  
+  - Access Restrictions -> Quality of Service (QoS) (skip, leave default settings)
+  
+  ![image](https://user-images.githubusercontent.com/67799618/91717466-7ab5c080-eb89-11ea-9031-3dcadef3ca2e.png)
+
+## 7. Configure WRT54G (Administration Pages)
+  - Administration -> Management
+    - Router Username: set router username if not already configured
+    - Router password: set if not already configured
+    - leave rest to default (no changes required unless specfic need)
+    
+  ![image](https://user-images.githubusercontent.com/67799618/91718036-88b81100-eb8a-11ea-9520-0ca8f3e1f161.png)
+ 
+  - Adminstration -> Keep Alive (skip leave default settings)
+  
+  ![image](https://user-images.githubusercontent.com/67799618/91718099-a2595880-eb8a-11ea-87b4-541a94d8c6cf.png)
+
+  - Administration -> Commands (skip leave default settings)
+  
+  ![image](https://user-images.githubusercontent.com/67799618/91718168-c9b02580-eb8a-11ea-87cd-6d030efb1f03.png)
+
+  - Administration -> WOL (skip leave default settings)
+  
+  ![image](https://user-images.githubusercontent.com/67799618/91718228-e2204000-eb8a-11ea-8a1b-e9df7890d1ba.png)
+  
+  - Administration -> Factory Defaults (skip leave default settings)
+  
+  ![image](https://user-images.githubusercontent.com/67799618/91718277-f3694c80-eb8a-11ea-8690-30d3f8199a3f.png)
+
+  - Administration -> Firmware Upgrade (skip leave default settings)
+ 
+ ![image](https://user-images.githubusercontent.com/67799618/91718389-290e3580-eb8b-11ea-95a6-f70ced21f867.png)
+
+  - Administration -> Backup
+ here is the final screen, this is opportunity to backup all these settings to a file should you ever have to reset the router in the future you wil be able to retrieve yor settings.
+ 
+ ![image](https://user-images.githubusercontent.com/67799618/91718594-93bf7100-eb8b-11ea-9f29-92c31fa3b058.png)
+ 
+ 
