@@ -32,6 +32,7 @@ Note: Click 'Save' everytime you change a settings, once all settings have been 
   
 ## 2. Configure WRT54G (Setup Page)
   - reset router by pressing the hardware switch
+  
   ![image](https://user-images.githubusercontent.com/67799618/91711337-a8950800-eb7d-11ea-9bd9-6d3493751369.png)
   - connect to open wifi dd-wrt or use an ethernet cable instead
   - open browser and type 192.168.1.1
@@ -65,29 +66,29 @@ Note: Click 'Save' everytime you change a settings, once all settings have been 
 
 ## 3. Configure WRT54G (Wireless Page)
   - Wireless-> Basic Settings
-    - **Wireless mode:** Repeater Bridge
-    - **Wireless Network Mode:** Mixed or choose G-Only
-    - **Wireless Network Name (SSID):** WIFI_1 (same as phone hotspot)
-    - **Sensitivity Range (ACK Timing):** 2000 (default) unless you know what your doing
-    - **Network Configuration:** Bridged
-    - **Click add a virtual Interface**
-    - **Wireless Netwrok Name (SSID):** WIFI_2 (or any other name)
-    - **Wireless SSID Broadcast:** Enable (or Disable if you want to hide the network)
-    - **AP Isolation:** Disable
-    - **Network Configuration:** Bridged
+    - Wireless mode: Repeater Bridge
+    - Wireless Network Mode: Mixed or choose G-Only
+    - Wireless Network Name (SSID): WIFI_1 (same as phone hotspot)
+    - Sensitivity Range (ACK Timing): 2000 (default) unless you know what your doing
+    - Network Configuration: Bridged
+    - Click add a virtual Interface
+    - Wireless Netwrok Name (SSID): WIFI_2 (or any other name)
+    - Wireless SSID Broadcast: Enable (or Disable if you want to hide the network)
+    - AP Isolation: Disable
+    - Network Configuration: Bridged
     
    ![image](https://user-images.githubusercontent.com/67799618/91714337-6a9ae280-eb83-11ea-9621-9bba039719c2.png)
   
   - Wireless -> Radius (skip this, only configurable in AP isolation mode anyway)
   - Wireless -> Wireless Security
   
-      --Physical Interface-- Encryption has to match mobile encryption (these are settings that worked for me)
+      --Physical Interface-- Encryption has to match mobile hotspot encryption (these are settings that worked for me)
       - Security Mode: WPA2 Personal
       - WPA algorithms: AES
       - WPA Shared Key: Same as Mobile HotSpot
       - Key Renewal Interval (in seconds): 3600 (default)
       
-      --Virtual Interfaces-- Encryption has to match mobile encryption (these are settings that worked for me)
+      --Virtual Interfaces-- Encryption has to match mobile hotspot encryption (these are settings that worked for me)
       - Security Mode: WPA2 Personal
       - WPA algorithms: AES
       - WPA Shared Key: Same as Mobile HotSpot
