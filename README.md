@@ -76,7 +76,7 @@ Note: Click 'Save' everytime you change a settings, once all settings have been 
     - **AP Isolation:** Disable
     - **Network Configuration:** Bridged
     
-    ![image](https://user-images.githubusercontent.com/67799618/91712835-7e911500-eb80-11ea-8aad-554c59e26ac6.png)
+   ![image](https://user-images.githubusercontent.com/67799618/91714337-6a9ae280-eb83-11ea-9621-9bba039719c2.png)
   
   - Wireless -> Radius (skip this, only configurable in AP isolation mode anyway)
   - Wireless -> Wireless Security
@@ -91,4 +91,5 @@ Note: Click 'Save' everytime you change a settings, once all settings have been 
       - WPA algorithms: AES
       - WPA Shared Key: Same as Mobile HotSpot
       - Key Renewal Interval (in seconds): 3600 (default)
-  
+      
+      ![image](https://user-images.githubusercontent.com/67799618/91714546-ea28b180-eb83-11ea-8e78-0d8a09f7864f.png)
