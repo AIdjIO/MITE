@@ -43,8 +43,7 @@ detail of softweare flashed and router spec
     - Local DNS: 192.168.43.1
     - Assign WAN Port to Switch: (Optional) select if you want to make an extra ethernet port available for an additional device
     - NTP Client: disbale (optional)
-    
-     ![image](https://user-images.githubusercontent.com/67799618/91711631-17726100-eb7e-11ea-900e-5d6594bd6df0.png)
+    ![image](https://user-images.githubusercontent.com/67799618/91711631-17726100-eb7e-11ea-900e-5d6594bd6df0.png)
      
    - Setup -> DDNS (disable)
    - Setup -> Mac Address Clone (disable)
@@ -52,7 +51,5 @@ detail of softweare flashed and router spec
     - Operating Mode: Select Router
     - Dynamic Routing: Disbale
     - Static Routing: leave default settings
-    - ![image](https://user-images.githubusercontent.com/67799618/91712110-02e29880-eb7f-11ea-9f57-ecb00fc2936f.png)
-
-  
+    ![image](https://user-images.githubusercontent.com/67799618/91712110-02e29880-eb7f-11ea-9f57-ecb00fc2936f.png)
   
