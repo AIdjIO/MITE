@@ -6,7 +6,7 @@ this assumes you have a router flashed with dd-wrt and repeater bridge option av
 Linksys WRT54G/GL/GS | Samsung Galaxy S6 
 ----|-------
 (Broadcom BCM5352 chip rev 0) flashed with dd-wrt firmware v24-sp2 (07/22-09) micro - build 12548M NEWD Eko
-(useful pages @ https://wiki.dd-wrt.com/wiki/index.php/Linksys_WRT54G/GL/GS/GX) | Any wifi modem router could also be used instead or any other phone with hotspot function
+(useful pages @ https://wiki.dd-wrt.com/wiki/index.php/Linksys_WRT54G/GL/GS/GX) | Any wifi modem router could also be used instead or any other phone with hotspot function but the point is to share mobile phone internet with wired devices
 ![WRT54G](https://user-images.githubusercontent.com/67799618/91707965-8351cb00-eb78-11ea-9bcf-6762f3a32230.png) | ![Samsung_Galaxy_S6_Scaled](https://user-images.githubusercontent.com/67799618/91667284-4dbacc80-eafb-11ea-92c1-f597a17c8265.png)
 
 # Router status page
