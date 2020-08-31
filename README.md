@@ -95,3 +95,22 @@ Note: Click 'Save' everytime you change a settings, once all settings have been 
       - Key Renewal Interval (in seconds): 3600 (default)
       
       ![image](https://user-images.githubusercontent.com/67799618/91714546-ea28b180-eb83-11ea-8e78-0d8a09f7864f.png)
+      
+    - Wireless -> Mac Filter 
+    (optional - specify MAC address of devices allowed on the network if you want to restrict access to certain devices only
+    this option is also available on the mobile hotspot).
+    
+    ![image](https://user-images.githubusercontent.com/67799618/91715033-d6317f80-eb84-11ea-8c37-8dac6b0730dd.png)
+    
+    - Wireless -> Advanced Settings (everything left to default)
+     - Wireless GUI Access: Enable (if Disable is selected you will not be able to access this configuration interface via Wifi anymore).
+    
+    ![image](https://user-images.githubusercontent.com/67799618/91715371-67085b00-eb85-11ea-9beb-46df46eb4a6d.png)
+    
+    - Wireless -> WDS (default settigns)
+    
+    ![image](https://user-images.githubusercontent.com/67799618/91715514-b058aa80-eb85-11ea-9067-9c3bc162bb2b.png)
+    
+    
+    
+    
