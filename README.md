@@ -53,3 +53,9 @@ detail of softweare flashed and router spec
       - Static Routing: leave default settings
     ![image](https://user-images.githubusercontent.com/67799618/91712110-02e29880-eb7f-11ea-9f57-ecb00fc2936f.png)
   
+   - Setup -> VLAN
+   ![image](https://user-images.githubusercontent.com/67799618/91712664-1fcb9b80-eb80-11ea-98b1-0368ccc45d53.png)
+   - Setup -> Networking
+   ![image](https://user-images.githubusercontent.com/67799618/91712716-3b36a680-eb80-11ea-874d-c1ac96c34102.png)
+
+
