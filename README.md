@@ -10,7 +10,7 @@ Linksys WRT54G/GL/GS | Samsung Galaxy S6
 ![WRT54G](https://user-images.githubusercontent.com/67799618/91707965-8351cb00-eb78-11ea-9bcf-6762f3a32230.png) | ![Samsung_Galaxy_S6_Scaled](https://user-images.githubusercontent.com/67799618/91667284-4dbacc80-eafb-11ea-92c1-f597a17c8265.png)
 
 # Router status page
-detail of softweare flashed and router spec
+ - Detail of softweare flashed and router spec
 
 ![image](https://user-images.githubusercontent.com/67799618/91665740-c87dea80-eaef-11ea-96f2-606682c35c73.png)
 
