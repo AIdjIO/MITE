@@ -65,16 +65,16 @@ Note: Click 'Save' everytime you change a settings, once all settings have been 
 
 3. Configure WRT54G (Wireless Page)
   - Wireless-> Basic Settings
-    - Wireless mode: Repeater Bridge
-    - Wireless Network Mode: Mixed or choose G-Only
-    - Wireless Network Name (SSID): WIFI_1 (same as phone hotspot)
-    - Sensitivity Range (ACK Timing): 2000 (default) unless you know what your doing
-    - Network Configuration: Bridged
-    - Click add a virtual Interface
-    - Wireless Netwrok Name (SSID): WIFI_2 (or any other name)
-    - Wireless SSID Broadcast: Enable (or Disable if you want to hide the network)
-    - AP Isolation: Disbale
-    - Networ Configuration: Bridged
+    - **Wireless mode:** Repeater Bridge
+    - **Wireless Network Mode:** Mixed or choose G-Only
+    - **Wireless Network Name (SSID):** WIFI_1 (same as phone hotspot)
+    - **Sensitivity Range (ACK Timing):** 2000 (default) unless you know what your doing
+    - **Network Configuration:** Bridged
+    - **Click add a virtual Interface**
+    - **Wireless Netwrok Name (SSID):** WIFI_2 (or any other name)
+    - **Wireless SSID Broadcast:** Enable (or Disable if you want to hide the network)
+    - **AP Isolation:** Disbale
+    - **Network Configuration:** Bridged
     
     ![image](https://user-images.githubusercontent.com/67799618/91712835-7e911500-eb80-11ea-8aad-554c59e26ac6.png)
   
