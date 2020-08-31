@@ -73,7 +73,7 @@ Note: Click 'Save' everytime you change a settings, once all settings have been 
     - **Click add a virtual Interface**
     - **Wireless Netwrok Name (SSID):** WIFI_2 (or any other name)
     - **Wireless SSID Broadcast:** Enable (or Disable if you want to hide the network)
-    - **AP Isolation:** Disbale
+    - **AP Isolation:** Disable
     - **Network Configuration:** Bridged
     
     ![image](https://user-images.githubusercontent.com/67799618/91712835-7e911500-eb80-11ea-8aad-554c59e26ac6.png)
