@@ -80,13 +80,14 @@ Note: Click 'Save' everytime you change a settings, once all settings have been 
   
   - Wireless -> Radius (skip this, only configurable in AP isolation mode anyway)
   - Wireless -> Wireless Security
-      --Physical Interface--
+  
+      --Physical Interface-- Encryption has to match mobile encryption (these are settings that worked for me)
       - Security Mode: WPA2 Personal
       - WPA algorithms: AES
       - WPA Shared Key: Same as Mobile HotSpot
       - Key Renewal Interval (in seconds): 3600 (default)
       
-      --Virtual Interfaces
+      --Virtual Interfaces-- Encryption has to match mobile encryption (these are settings that worked for me)
       - Security Mode: WPA2 Personal
       - WPA algorithms: AES
       - WPA Shared Key: Same as Mobile HotSpot
