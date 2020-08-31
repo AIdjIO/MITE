@@ -10,7 +10,6 @@ How to share mobile internet (wifi hotspost) to wired ethernet (LAN) devices wit
 
 ![Samsung_Galaxy_S6_Scaled](https://user-images.githubusercontent.com/67799618/91667284-4dbacc80-eafb-11ea-92c1-f597a17c8265.png)
 
-# 
-
+# Router front page
 ![image](https://user-images.githubusercontent.com/67799618/91665740-c87dea80-eaef-11ea-96f2-606682c35c73.png)
 ![Untitled](https://user-images.githubusercontent.com/67799618/91666968-32e75880-eaf9-11ea-9f1f-19ad3ca9d5d2.png)
