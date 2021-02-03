@@ -1,6 +1,8 @@
 # MITE - Mobile Internet to Ethernet
 How to share mobile internet (wifi hotspost) to wired ethernet (LAN) devices with dd-wrt
-this assumes you have a router flashed with dd-wrt and repeater bridge option available
+this assumes you have a router flashed with dd-wrt and repeater bridge option available.
+I have included screenshots of most config page so you can check your own configuration but
+most of the settings are left to their default values.
 
 # Hardware used in this tutorial
 Linksys WRT54G/GL/GS | Samsung Galaxy S6 
@@ -107,7 +109,7 @@ Note: Click 'Save' everytime you change a settings, once all settings have been 
     
    ![image](https://user-images.githubusercontent.com/67799618/91715371-67085b00-eb85-11ea-9beb-46df46eb4a6d.png)
     
-   - Wireless -> WDS (skip, leave default settigns)
+   - Wireless -> WDS (skip, leave default settings)
     
    ![image](https://user-images.githubusercontent.com/67799618/91715514-b058aa80-eb85-11ea-9067-9c3bc162bb2b.png)
    
