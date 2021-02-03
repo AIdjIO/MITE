@@ -17,7 +17,7 @@ Linksys WRT54G/GL/GS | Samsung Galaxy S6
 ![image](https://user-images.githubusercontent.com/67799618/91665740-c87dea80-eaef-11ea-96f2-606682c35c73.png)
 
 # Step by Step
-Note: Click 'Save' everytime you change a settings, once all settings have been modified select 'Apply Settings' and wait forr router to reboot.
+Note: Click 'Save' everytime you change a settings, once all settings have been modified select 'Apply Settings' and wait for router to reboot.
 
 ## 1. Configure android phone hotspot 
   - Network Name : e.g. WIFI_1
