@@ -204,7 +204,7 @@ Note: Click 'Save' everytime you change a settings, once all settings have been 
  ![image](https://user-images.githubusercontent.com/67799618/91718594-93bf7100-eb8b-11ea-9f29-92c31fa3b058.png)
  
  Connect your wired devices to the router ethernet port, they should get automatice IP addresses via DHCP from the phone (make sure the device set to receive IP address via DHCP, you can also assign an IP address as long as it is in the same address range e.g. 192.168.43.x (x = 3 to 254) in this scenario.
- You should then be able to access the ethernet on these devices useing the mobile phone internet connection.
- You can also connect wifi devices using either WIFI_1 or WIFI_2 network, you can therfore place the wifi router in an other location  than the phone in orther to extend coverage of the wifi network.
+ You should then be able to access the internet on these devices useing the mobile phone internet connection.
+ You can also connect wifi devices using either WIFI_1 or WIFI_2 network, you can therefore place the wifi router in another location than the phone in order to extend coverage of the wifi network.
  
 You can turn off the phone mobile hotspot at anytime, the router will keep functioning you will simply no longer have access to the internet with these devices.
